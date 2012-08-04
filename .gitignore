@@ -1,0 +1,9 @@
+.*
+*.lo
+*.la
+libtool
+man/sis.4
+stamp-h1
+Debug
+Makefile*
+config.*
